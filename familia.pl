@@ -1,4 +1,4 @@
-% Flores Lara Alberto; Luna Zamora Juan Antonio; Saucillo González Jesse Obed 3BV2
+% Flores Lara Alberto; Luna Zamora Juan Antonio; Saucillo González Jesse Obed  3BV2
 
 % Facts: parent(Child, Parent)
 parent(john, mary).
