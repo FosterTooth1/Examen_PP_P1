@@ -82,7 +82,7 @@ void MenorPila(Pila* p){
     if (aux == NULL) {
         printf ("No hay Datos\n");
     }
-    int menor = p->cursor;
+    int menor = aux->valor;
     while (aux) {
         if(menor > aux->valor){
             menor=aux->valor;
